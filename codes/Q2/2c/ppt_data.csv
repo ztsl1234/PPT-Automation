@@ -1,0 +1,25 @@
+PeriodKey,Category,Subcategory,Country,Segment,Section,Type,Content,MeasureValue,MeasureType
+1,Technical Ability Test,PPT Automation,Singapore,All,Base,Conversations,N/A,12444,#
+1,Technical Ability Test,PPT Automation,Singapore,All,Base,People,N/A,5840,#
+1,Technical Ability Test,PPT Automation,Singapore,All,Source,Ecommerce,N/A,41,%
+1,Technical Ability Test,PPT Automation,Singapore,All,Source,Social media,N/A,43,%
+1,Technical Ability Test,PPT Automation,Singapore,All,Source,Blogs,N/A,40,%
+1,Technical Ability Test,PPT Automation,Singapore,All,Source,Forums and groups,N/A,47,%
+1,Technical Ability Test,PPT Automation,Singapore,All,Source,Others,N/A,44,%
+1,Technical Ability Test,PPT Automation,Singapore,All,Excitement levels,Super,N/A,60,%
+1,Technical Ability Test,PPT Automation,Singapore,All,Excitement levels,Okay,N/A,30,%
+1,Technical Ability Test,PPT Automation,Singapore,All,Excitement levels,Meh,N/A,10,%
+1,Technical Ability Test,PPT Automation,Singapore,Before,Gender Split,Male Only,N/A,53,%
+1,Technical Ability Test,PPT Automation,Singapore,Before,Gender Split,Female Only,N/A,39,%
+1,Technical Ability Test,PPT Automation,Singapore,After,Gender Split,Male Only,N/A,44,%
+1,Technical Ability Test,PPT Automation,Singapore,After,Gender Split,Female Only,N/A,47,%
+1,Technical Ability Test,PPT Automation,Singapore,Before,Industry,Industry split,<Industry split 1>,26,%
+1,Technical Ability Test,PPT Automation,Singapore,Before,Industry,Industry split,<Industry split 2>,13,%
+1,Technical Ability Test,PPT Automation,Singapore,Before,Industry,Industry split,<Industry split 3>,30,%
+1,Technical Ability Test,PPT Automation,Singapore,Before,Industry,Industry split,<Industry split 4>,26,%
+1,Technical Ability Test,PPT Automation,Singapore,Before,Industry,Industry split,<Industry split 5>,21,%
+1,Technical Ability Test,PPT Automation,Singapore,After,Industry,Industry split,<Industry split 1>,30,%
+1,Technical Ability Test,PPT Automation,Singapore,After,Industry,Industry split,<Industry split 2>,27,%
+1,Technical Ability Test,PPT Automation,Singapore,After,Industry,Industry split,<Industry split 3>,30,%
+1,Technical Ability Test,PPT Automation,Singapore,After,Industry,Industry split,<Industry split 4>,27,%
+1,Technical Ability Test,PPT Automation,Singapore,After,Industry,Industry split,<Industry split 5>,22,%
